@@ -35,3 +35,5 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 # dragon-fit
+# dragon-fit git init git add README.md git commit -m first commit git branch -M main git remote set origin https://github.com/walid0111/dragon-fit.git git push -u origin main
+# dragon-fit
